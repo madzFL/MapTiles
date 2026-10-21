@@ -1,5 +1,8 @@
 # Tile Grid
 
+<img width="1665" height="837" alt="image" src="https://github.com/user-attachments/assets/9214fb4f-6e23-4f2e-a6e6-6132c8e33c77" />
+
+
 A RuneScape client plugin (Lua) that draws the tile grid around your character in the world: a lattice over walkable tiles, a dark box on tiles blocked by objects, red lines on wall edges and orange lines on the 64 x 64 mapsquare borders. Water, cliffs and other unwalkable terrain simply end the lattice.
 
 The grid follows you as you move, uses the game's own ground heights, and is drawn inside the scene, so it climbs stairs, follows bridge decks and is hidden by scenery and characters like the game's own markers.
