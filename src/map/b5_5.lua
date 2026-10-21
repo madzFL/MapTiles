@@ -1,0 +1,4 @@
+-- src/map/b5_5.lua: blocked tile runs for mapsquares 80..95 x 80..95 (generated data, do not edit).
+return {
+    ["90_90_2"] = "Ppe0cPbo04PuHP0cPbk0cP@Px0Pbk0P@dPq0BPf4dDf@dDlTcD@dDiP@fPbc@c0d@cPe@ePe0d@cPd@jPq0Pi@0m@gP0hPc@Pd@fPsQPh@0o@c0m@Pe@dPtQPh@0bc@Pe@dBPsQPg0bhPc@dBPsQPe0bj@fBPsAPc@c0bl@dBPsAPd0bn@PBPsA0P0boPcBPsA@0bpP@BPsA@0bpP@BPsAP0bpPcBPs@0br@BPs@0br@BPs@0bs@PsA@0br@PsA@0br@Pk0iAPc0bpPBPk0iA@0tPf0sPBPk@DhE@0sPh0rPRPkAPi0sPi0rPRPkAPj0rPi0sBPkAPh0P0rPi0rPBPkAPi0sPi0rPBPk@XcHfI@0sPh0qPcBPk0iAP0tPf0rPcBPk0iAPc0bpPBPsAPc0bq@PsA@0br@Ps@0bs@Ps@0br@BPs@0bqP@BPs@P0boPdBPsA@0boPdBPsA@P0bnPdBPsAPd0bnPcBPsAPd0bnPcBPsAP@c0bm@PcBPsQPd0blPeRPsQPf0bjPeRPsQPh@0bc@cPgRPba@0bbP@cPgRPba@P0jPd0nPc@dPwQ@Pl@c0d@cP@Pf@cP@c0d@cPd@cPw0PgXfHd@dHeIPd@JHe@dHhXcPv0Pe0Pp1PeBPp0cPv0Pc0cPp1Pe2Pp0dP@Pt0cPr1Pd02Pr0cXPbm10P0c2Pcg10e2Pcg10e2Pcg10e2Pcg10e2PchXePbe",
+}

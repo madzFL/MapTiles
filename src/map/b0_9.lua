@@ -1,0 +1,23 @@
+-- src/map/b0_9.lua: blocked tile runs for mapsquares 0..15 x 144..159 (generated data, do not edit).
+return {
+    ["14_150_0"] = "0bopP0briP0cvp",
+    ["14_151_0"] = "0cl90cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10buP0q10cl10cl10cl10qP0bu10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10iP0fP0bw10cl10cl10cl10tP0br10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl5",
+    ["14_151_1"] = "0cl90cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl5",
+    ["14_151_2"] = "#14_151_1",
+    ["14_151_3"] = "#14_151_1",
+    ["14_152_0"] = ":0cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl20cl64ck5",
+    ["14_152_1"] = "#14_152_0",
+    ["14_152_2"] = "#14_152_0",
+    ["14_152_3"] = "#14_152_0",
+    ["15_150_0"] = "0dgdPg0cgP0dPe0ceP0dP0cPc0cdP0hP0cdP0P0fPc0ePd0bvP0iPc0cPc0P0bv@0iPc0Pc0cP0bdP0rPc0iP@P0dP0bwP@0iP0eP0bxP@0iP0cPc0byP@0kPd0byP0mPc0bxP0eP0iPi0bq@0kP0fP0dPd0bo@0oP0hP0bdP@gP@ePe@0qPd0bcP0biP0bcP0biP0bcP0bcP0dPd0bcP@mP@d0iP0dP0dPc0boP0fP0jPe0Pc0boP@0oPh0bi@fP@c0cP0l@c0bn@P0fP0jP0cPe0boP@0dP0hP0ePe0brP@0pP0bvPc0fP0cPd0dP0bwPd0P0Ph0cP0bxP0P0cP0ePd0P0bxPc@Pd0ePe@0bn",
+    ["15_150_1"] = "0dqnPd0ciPc0P0chPc0c@0cgPc0d@0cgP0e@0cg@c0c@c0ck@d0cl@c0clPi0clPd0clP0bdPr0rPc0bcP0biP0bcP0biP0bcP0bhPc0bcPr0qPc0cePc0dPc0cePh0cePc0cePc0dPc0cbP0ePf0ccP0eP0cgPc0dP0cgPd0cP0cg@e0@0cg@g0bn",
+    ["15_151_0"] = "0cmjP0croP0xp",
+    ["15_152_0"] = ":0ck920ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck120ck160ck5",
+    ["15_152_1"] = "#14_151_1",
+    ["15_152_2"] = "#14_151_1",
+    ["15_152_3"] = "0cl90cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10r40bt10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl10cl5",
+    ["15_153_0"] = "0fzc64ck5",
+    ["15_153_1"] = "#15_153_0",
+    ["15_153_2"] = "#15_153_0",
+    ["15_153_3"] = "#15_153_0",
+}

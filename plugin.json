@@ -1,0 +1,12 @@
+{
+    "name": "Tile Grid",
+    "version": "0.1.0",
+    "contactEmailAddress": "mirage.garithos@gmail.com",
+    "hasRibbonIcon": false,
+    "hasSettingsIcon": true,
+    "requiredDependencies": {},
+    "optionalDependencies": {},
+    "requiredPermissions": [],
+    "optionalPermissions": [],
+    "urls": {}
+}
